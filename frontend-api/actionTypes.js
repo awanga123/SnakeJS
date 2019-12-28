@@ -1,0 +1,5 @@
+module.exports = {
+  CHANGE_GAME_STATE: 'CHANGE_GAME_STATE',
+  END_GAME: 'END_GAME',
+  START_GAME: 'START_GAME',
+}
